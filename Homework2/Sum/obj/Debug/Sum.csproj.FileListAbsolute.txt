@@ -1,0 +1,6 @@
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\Sum\bin\Debug\Sum.exe.config
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\Sum\bin\Debug\Sum.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\Sum\bin\Debug\Sum.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\Sum\obj\Debug\Sum.csproj.CoreCompileInputs.cache
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\Sum\obj\Debug\Sum.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\Sum\obj\Debug\Sum.pdb

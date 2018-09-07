@@ -1,0 +1,7 @@
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Swap\bin\Debug\Swap.exe.config
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Swap\bin\Debug\Swap.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Swap\bin\Debug\Swap.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Swap\obj\Debug\Swap.csproj.CoreCompileInputs.cache
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Swap\obj\Debug\Swap.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Swap\obj\Debug\Swap.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Swap\obj\Debug\Swap.csprojAssemblyReference.cache

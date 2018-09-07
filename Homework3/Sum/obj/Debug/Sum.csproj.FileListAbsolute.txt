@@ -1,0 +1,16 @@
+C:\Users\Goldhands\source\repos\Homework3\Sum\bin\Debug\Sum.exe.config
+C:\Users\Goldhands\source\repos\Homework3\Sum\bin\Debug\Sum.exe
+C:\Users\Goldhands\source\repos\Homework3\Sum\bin\Debug\Sum.pdb
+C:\Users\Goldhands\source\repos\Homework3\Sum\obj\Debug\Sum.csprojAssemblyReference.cache
+C:\Users\Goldhands\source\repos\Homework3\Sum\obj\Debug\Sum.csproj.CoreCompileInputs.cache
+C:\Users\Goldhands\source\repos\Homework3\Sum\obj\Debug\Sum.exe
+C:\Users\Goldhands\source\repos\Homework3\Sum\obj\Debug\Sum.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework3\Sum\bin\Debug\Sum.exe.config
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework3\Sum\bin\Debug\Sum.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework3\Sum\bin\Debug\Sum.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework3\Sum\bin\Debug\HelpLib.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework3\Sum\obj\Debug\Sum.csprojAssemblyReference.cache
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework3\Sum\obj\Debug\Sum.csproj.CoreCompileInputs.cache
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework3\Sum\obj\Debug\Sum.csproj.CopyComplete
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework3\Sum\obj\Debug\Sum.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework3\Sum\obj\Debug\Sum.pdb

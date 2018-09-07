@@ -1,0 +1,7 @@
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Name\bin\Debug\Name.exe.config
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Name\bin\Debug\Name.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Name\bin\Debug\Name.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Name\obj\Debug\Name.csproj.CoreCompileInputs.cache
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Name\obj\Debug\Name.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Name\obj\Debug\Name.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Name\obj\Debug\Name.csprojAssemblyReference.cache

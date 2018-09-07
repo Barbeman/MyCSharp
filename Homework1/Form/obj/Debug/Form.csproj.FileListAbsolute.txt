@@ -1,0 +1,10 @@
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Form\bin\Debug\Form.exe.config
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Form\bin\Debug\Form.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Form\bin\Debug\Form.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Form\obj\Debug\Form.csprojAssemblyReference.cache
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Form\obj\Debug\Form.csproj.CoreCompileInputs.cache
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Form\obj\Debug\Form.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Form\obj\Debug\Form.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Form\bin\Debug\YakovlevClassLibrary.dll
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Form\bin\Debug\YakovlevClassLibrary.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Form\obj\Debug\Form.csproj.CopyComplete

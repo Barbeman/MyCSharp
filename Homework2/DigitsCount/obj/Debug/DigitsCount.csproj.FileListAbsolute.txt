@@ -1,0 +1,7 @@
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\DigitsCount\bin\Debug\DigitsCount.exe.config
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\DigitsCount\bin\Debug\DigitsCount.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\DigitsCount\bin\Debug\DigitsCount.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\DigitsCount\obj\Debug\DigitsCount.csprojAssemblyReference.cache
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\DigitsCount\obj\Debug\DigitsCount.csproj.CoreCompileInputs.cache
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\DigitsCount\obj\Debug\DigitsCount.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\DigitsCount\obj\Debug\DigitsCount.pdb

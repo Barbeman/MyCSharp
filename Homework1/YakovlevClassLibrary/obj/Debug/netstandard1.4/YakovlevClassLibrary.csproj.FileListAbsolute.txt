@@ -1,0 +1,8 @@
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\YakovlevClassLibrary\bin\Debug\netstandard1.4\YakovlevClassLibrary.deps.json
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\YakovlevClassLibrary\bin\Debug\netstandard1.4\YakovlevClassLibrary.dll
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\YakovlevClassLibrary\bin\Debug\netstandard1.4\YakovlevClassLibrary.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\YakovlevClassLibrary\obj\Debug\netstandard1.4\YakovlevClassLibrary.csprojAssemblyReference.cache
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\YakovlevClassLibrary\obj\Debug\netstandard1.4\YakovlevClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\YakovlevClassLibrary\obj\Debug\netstandard1.4\YakovlevClassLibrary.AssemblyInfo.cs
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\YakovlevClassLibrary\obj\Debug\netstandard1.4\YakovlevClassLibrary.dll
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\YakovlevClassLibrary\obj\Debug\netstandard1.4\YakovlevClassLibrary.pdb

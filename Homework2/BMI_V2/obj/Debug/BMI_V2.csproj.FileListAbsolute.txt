@@ -1,0 +1,7 @@
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\BMI_V2\bin\Debug\BMI_V2.exe.config
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\BMI_V2\bin\Debug\BMI_V2.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\BMI_V2\bin\Debug\BMI_V2.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\BMI_V2\obj\Debug\BMI_V2.csproj.CoreCompileInputs.cache
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\BMI_V2\obj\Debug\BMI_V2.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\BMI_V2\obj\Debug\BMI_V2.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\BMI_V2\obj\Debug\BMI_V2.csprojAssemblyReference.cache

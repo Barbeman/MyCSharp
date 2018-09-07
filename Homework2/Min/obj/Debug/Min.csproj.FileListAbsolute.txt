@@ -1,0 +1,7 @@
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\Min\bin\Debug\Min.exe.config
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\Min\bin\Debug\Min.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\Min\bin\Debug\Min.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\Min\obj\Debug\Min.csproj.CoreCompileInputs.cache
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\Min\obj\Debug\Min.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\Min\obj\Debug\Min.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\Min\obj\Debug\Min.csprojAssemblyReference.cache

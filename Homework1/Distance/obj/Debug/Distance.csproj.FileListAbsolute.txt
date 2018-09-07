@@ -1,0 +1,7 @@
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Distance\bin\Debug\Distance.exe.config
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Distance\bin\Debug\Distance.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Distance\bin\Debug\Distance.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Distance\obj\Debug\Distance.csprojAssemblyReference.cache
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Distance\obj\Debug\Distance.csproj.CoreCompileInputs.cache
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Distance\obj\Debug\Distance.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\Distance\obj\Debug\Distance.pdb

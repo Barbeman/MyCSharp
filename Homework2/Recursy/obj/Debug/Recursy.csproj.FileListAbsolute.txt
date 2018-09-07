@@ -1,0 +1,7 @@
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\Recursy\bin\Debug\Recursy.exe.config
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\Recursy\bin\Debug\Recursy.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\Recursy\bin\Debug\Recursy.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\Recursy\obj\Debug\Recursy.csproj.CoreCompileInputs.cache
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\Recursy\obj\Debug\Recursy.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\Recursy\obj\Debug\Recursy.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\Recursy\obj\Debug\Recursy.csprojAssemblyReference.cache

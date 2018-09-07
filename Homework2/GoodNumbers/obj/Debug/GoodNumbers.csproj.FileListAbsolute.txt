@@ -1,0 +1,7 @@
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\GoodNumbers\obj\Debug\GoodNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\GoodNumbers\bin\Debug\GoodNumbers.exe.config
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\GoodNumbers\bin\Debug\GoodNumbers.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\GoodNumbers\bin\Debug\GoodNumbers.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\GoodNumbers\obj\Debug\GoodNumbers.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\GoodNumbers\obj\Debug\GoodNumbers.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework2\GoodNumbers\obj\Debug\GoodNumbers.csprojAssemblyReference.cache

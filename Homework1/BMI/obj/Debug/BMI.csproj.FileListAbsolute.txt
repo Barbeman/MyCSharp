@@ -1,0 +1,6 @@
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\BMI\bin\Debug\BMI.exe.config
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\BMI\bin\Debug\BMI.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\BMI\bin\Debug\BMI.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\BMI\obj\Debug\BMI.csproj.CoreCompileInputs.cache
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\BMI\obj\Debug\BMI.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework1\BMI\obj\Debug\BMI.pdb

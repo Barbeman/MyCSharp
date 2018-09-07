@@ -1,0 +1,9 @@
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework3\Complex\bin\Debug\Complex.exe.config
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework3\Complex\bin\Debug\Complex.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework3\Complex\bin\Debug\Complex.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework3\Complex\bin\Debug\HelpLib.pdb
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework3\Complex\obj\Debug\Complex.csprojAssemblyReference.cache
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework3\Complex\obj\Debug\Complex.csproj.CoreCompileInputs.cache
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework3\Complex\obj\Debug\Complex.csproj.CopyComplete
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework3\Complex\obj\Debug\Complex.exe
+C:\Users\Goldhands\Desktop\Учеба\C sharp\Homework3\Complex\obj\Debug\Complex.pdb
